@@ -1,0 +1,10 @@
+asms\MyMethodVisitor.class
+tranfromer\mytran1$1$1.class
+tranfromer\mytran.class
+load\Myload.class
+asms\MyClassVisitor.class
+tranfromer\mytran1.class
+tranfromer\mytran2.class
+agent\run.class
+tranfromer\mytran1$1.class
+agent\Agent.class
