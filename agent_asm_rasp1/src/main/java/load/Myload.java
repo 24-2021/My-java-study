@@ -13,7 +13,7 @@ import java.util.Set;
 
 public class Myload {
     //    private static final String path="F:\\java-8\\agent_one\\agentdemo1\\myagent\\agentdemo\\target\\agentdemo-1.0-SNAPSHOT.jar";
-    private static final String path="G:\\A孝道\\第三周\\rasp\\mydemo\\agent_asm\\agent_asm_rasp1\\target\\agent_asm_rasp1-1.0-SNAPSHOT.jar";
+    private static final String path="G:\\a\\a\\rasp\\mydemo\\agent_asm\\agent_asm_rasp1\\target\\agent_asm_rasp1-1.0-SNAPSHOT.jar";
     public static void main(String[] args) throws Exception {
 
         String load_pid=getpidlow().toString();
